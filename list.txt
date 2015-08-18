@@ -9,8 +9,6 @@ Burgers and Brew
 CREAM
 Cafe Bernardo
 Caffe Italia
-California/New American/Light Dining
-Chinese
 Chipotle
 Cloud Forest Cafe
 Crepeville
@@ -66,9 +64,7 @@ Thai Nakorn
 Thai Recipes
 The Co-Op
 The Dumpling House
-The Dumpling House serves Fish and Chips
 The G Street Wunderbar
-The Posh Bagel
 The Posh Bagel
 Tommy J's
 Tres Hermanas
